@@ -2,13 +2,14 @@
 
 ## <div align="center">🔭Experience🔭</div>
 <div align=center>
-🔒Department of Computer Engineering at Gachon Univ. 24'  <br />
+🖥 Department of Computer Engineering at Gachon Univ. 24'  <br />
     
 </div>
 
 ## <div align="center">⚒️Tech Stack⚒️</div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=yellow" />
 </div>
 <br />
